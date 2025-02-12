@@ -53,5 +53,5 @@ Do you want to play again? (y/n): y
 - Allow multiplayer support.
 
 ## Author
-Created by **[Your Name]**.
+Created by **[Boddu Sai Akhil]**.
 
